@@ -1,0 +1,386 @@
+#EXTM3U
+
+
+#PLAYLISTV:
+################################################################################# TV Aberta
+
+
+
+#EXTINF:-1 tvg-id="Globosp.br" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="TV Aberta",Globo HD
+http://painel.iptvmove.com:25461/live/sggssgsg/ggfgfg/2648.m3u8
+http://paraisotv.ddns.net/020/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+http://paraisotv.ddns.net/021/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta",Record HD
+http://srv3.zoeweb.tv:1935/zw315/zw315tvs/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Sbt.br" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV Aberta",SBT HD
+http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/playlist.m3u8?PEDROJUNIORTUTORIAIS
+http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/chunklist_w1049268288_b796000.m3u8
+
+#EXTINF:-1 tvg-id="Redetv.br" tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="TV Aberta",Rede TV HD
+http://srv3.zoeweb.tv:1935/z94-live/stream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="BandRede.br" tvg-logo="http://i.imgur.com/9bw0Q4n.png" group-title="TV Aberta",Band HD
+http://paraisotv.ddns.net/077/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-logo="http://i.imgur.com/kai6F2R.png" group-title="TV Aberta",Cultura HD
+http://rsync.com.br:1935/rsync00026/rsync.sdp/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+
+
+
+
+################################################################################ Diversos pré 630 NET
+
+
+
+
+#EXTINF:-1 audio-track="por,eng" tvg-id="Off.br" tvg-logo="http://i.imgur.com/WGoV3TD.png" group-title="Esportes",Off HD
+http://paraisotv.ddns.net/092/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-logo="http://i.imgur.com/8ds9Wv0.png" group-title="Esportes",SporTV 3 HD
+http://paraisotv.ddns.net/c016/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-logo="http://i.imgur.com/qpwwQCz.png" group-title="Esportes",SporTV 2 HD
+http://paraisotv.ddns.net/c007/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Sportv.br" tvg-logo="http://i.imgur.com/knx9dj1.png" group-title="Esportes",SporTV HD
+http://paraisotv.ddns.net/c008/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+
+#EXTINF:-1 tvg-id="Globonews.br" tvg-logo="http://i.imgur.com/gS0ZFOv.png" group-title="Notícias",Globo News HD
+http://paraisotv.ddns.net/013/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 audio-track="por,eng" tvg-id="Gnt.br" tvg-logo="http://i.imgur.com/cfJR8v5.png" group-title="Variedade e Músicas",GNT HD
+http://paraisotv.ddns.net/002/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 audio-track="por,eng" tvg-id="Multishow.br" tvg-logo="http://i.imgur.com/YDqoOVf.png" group-title="Variedade e Músicas",Multishow HD
+http://paraisotv.ddns.net/022/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Viva.br" tvg-logo="http://i.imgur.com/kadMdc9.png" group-title="Variedade e Músicas",Viva HD
+http://paraisotv.ddns.net/001/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="+globosat.br" tvg-logo="http://i.imgur.com/ep1Op1L.png" group-title="Variedade e Músicas",Mais Globosat HD
+http://paraisotv.ddns.net/073/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 audio-track="por,eng" tvg-id="Foxlife.br" tvg-logo="http://i.imgur.com/QvAbjda.png" group-title="Documentários",Fox Life
+http://paraisotv.ddns.net/083/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 audio-track="por,eng" tvg-id="Tlc.br" tvg-logo="http://i.imgur.com/zQM47Cf.png" group-title="Documentários",TLC HD
+http://paraisotv.ddns.net/034/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/NKXnETl.jpg" group-title="Variedade e Músicas",Yeeah!
+http://stmv2.srvstm.com:1935/yeeahteen/yeeahteen/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/saCbNDR.png" group-title="Variedade e Músicas",Chef TV
+http://paraisotv.ddns.net/062/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 audio-track="por,eng" tvg-id="Foodnetworkhd.br" tvg-logo="http://i.imgur.com/USpDZ09.png" group-title="Variedade e Músicas",Food Network HD
+http://paraisotv.ddns.net/c012/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 audio-track="por,eng" tvg-id="Homehealth.br" tvg-logo="http://i.imgur.com/FJgwtT5.png" group-title="Documentários",Discovery Home & Health HD
+http://paraisotv.ddns.net/c013/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 audio-track="por,eng" tvg-id="Curta!" tvg-logo="http://i.imgur.com/Tkm9J8X.png" group-title="Documentários",Curta! HD
+http://paraisotv.ddns.net/014/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 audio-track="por,eng" tvg-id="Fishtv.br" tvg-logo="http://i.imgur.com/HXQoT1u.png" group-title="Esportes",Fish TV HD
+http://paraisotv.ddns.net/108/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-logo="http://i.imgur.com/rTXcueh.png" group-title="Esportes",ESPN Brasil HD
+http://paraisotv.ddns.net/c001/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 audio-track="por,eng" tvg-id="ESPNInternational.br" tvg-logo="http://i.imgur.com/kcxzdPA.png" group-title="Esportes",ESPN HD
+http://paraisotv.ddns.net/c002/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 audio-track="por,eng" tvg-id="ESPN+.br" tvg-logo="http://i.imgur.com/Qp5B2ZB.png" group-title="Esportes",ESPN+ HD
+http://paraisotv.ddns.net/c003/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="EsporteInterativo.br" tvg-logo="http://i.imgur.com/ifuWdBK.png" group-title="Esportes",Esporte Interativo HD
+http://paraisotv.ddns.net/c004/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="Esportes",Fox Sports HD
+http://paraisotv.ddns.net/036/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-logo="http://i.imgur.com/imNhdzS.png" group-title="Esportes",Fox Sports 2 HD
+http://paraisotv.ddns.net/c009/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-logo="http://i.imgur.com/wuMZB2S.png" group-title="Esportes",Band Sports HD
+http://paraisotv.ddns.net/c015/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Eimaxx.br" tvg-logo="http://i.imgur.com/ifuWdBK.png" group-title="Esportes",EI Maxx HD
+http://paraisotv.ddns.net/048/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Eimaxx2.br" tvg-logo="http://i.imgur.com/ifuWdBK.png" group-title="Esportes",EI Maxx 2 HD
+http://paraisotv.ddns.net/c005/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-logo="http://i.imgur.com/ac5p192.png" group-title="Notícias",Record News
+http://sm.fabricahost.com.br:1935/tvguara/tvguara/playlist.m3u8?PEDROJUNIORTUTORIAIS
+http://stmv4.srvstm.com/recordnewses/recordnewses/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-logo="http://i.imgur.com/ac5p192.png" group-title="Notícias",Record News HD
+http://paraisotv.ddns.net/049/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-logo="http://i.imgur.com/oLcHI8G.png" group-title="Notícias",Band News HD
+http://paraisotv.ddns.net/032/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+
+#######################################################################################Vários Nat Geo
+
+
+#EXTINF:-1 audio-track="por,eng" tvg-id="Nationalgeographic.br" tvg-logo="http://i.imgur.com/caeyoP1.png" group-title="Documentários",National Geographic HD
+http://paraisotv.ddns.net/101/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 audio-track="por,eng" tvg-id="Discovery.br" tvg-logo="http://i.imgur.com/sIN7H8e.png" group-title="Documentários",Discovery HD
+http://paraisotv.ddns.net/c011/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 audio-track="por,eng" tvg-id="Animalplanet.br" tvg-logo="http://i.imgur.com/eY508Ps.png" group-title="Documentários",Animal Planet HD
+http://paraisotv.ddns.net/017/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 audio-track="por,eng" tvg-id="Historychannel.br" tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="Documentários",History HD
+http://paraisotv.ddns.net/024/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 audio-track="por,eng" tvg-id="Discturbohd.br" tvg-logo="http://i.imgur.com/2vuY35C.png" group-title="Documentários",Discovery Turbo HD
+http://paraisotv.ddns.net/026/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 audio-track="por,eng" tvg-id="DiscoveryScience.br" tvg-logo="http://i.imgur.com/Dx49y4f.png" group-title="Documentários",Discovery Science
+http://paraisotv.ddns.net/074/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 audio-track="por,eng" tvg-id="DiscoveryCivilization.br" tvg-logo="http://i.imgur.com/dN249KE.png" group-title="Documentários",Discovery Civilization
+http://paraisotv.ddns.net/050/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 audio-track="por,eng" tvg-id="Natgeowildhd.br" tvg-logo="http://i.imgur.com/MH5AxVt.png" group-title="Documentários",Nat Geo Wild HD
+http://paraisotv.ddns.net/082/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 audio-track="por,eng" tvg-id="Hdtheater.br" tvg-logo="http://i.imgur.com/DHNMh5i.png" group-title="Documentários",Discovery Theater HD
+http://paraisotv.ddns.net/028/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 audio-track="por,eng" tvg-id="Discoveryworldhd.br" tvg-logo="http://i.imgur.com/pZLvsXH.png" group-title="Documentários",Discovery World HD
+http://paraisotv.ddns.net/094/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 audio-track="por,eng" tvg-id="H2.br" tvg-logo="http://i.imgur.com/jhiD9Wc.png" group-title="Documentários",H2 HD
+http://paraisotv.ddns.net/054/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+
+
+
+################################################################################# Infantil
+
+
+
+#EXTINF:-1 tvg-id="Natgeokids.br" tvg-logo="http://i.imgur.com/wlQ5V8Z.png" group-title="Infantil",Nat Geo Kids
+http://paraisotv.ddns.net/010/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-logo="http://i.imgur.com/DpgSKt0.png" group-title="Infantil",Discovery Kids HD
+http://paraisotv.ddns.net/c014/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Gloob.br" tvg-logo="http://i.imgur.com/mFDFUjt.png" group-title="Infantil",Gloob HD
+http://paraisotv.ddns.net/089/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-logo="http://i.imgur.com/ETxffjm.png" group-title="Infantil",Disney Channel HD
+http://paraisotv.ddns.net/075/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="Infantil",Nickelodeon HD
+http://paraisotv.ddns.net/015/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-logo="http://i.imgur.com/S5PsDDR.png" group-title="Infantil",Cartoon Network HD
+http://paraisotv.ddns.net/027/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Disneyxd.br" tvg-logo="http://i.imgur.com/zNNIALN.png" group-title="Infantil",Disney XD
+http://paraisotv.ddns.net/086/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-logo="http://i.imgur.com/H9AY5z4.png" group-title="Infantil",Disney JR
+http://paraisotv.ddns.net/087/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="NickJr.br" tvg-logo="http://i.imgur.com/6vVmJJf.png" group-title="Infantil",Nick Jr.
+http://paraisotv.ddns.net/052/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-logo="http://i.imgur.com/syou7kI.png" group-title="Infantil",Boomerang
+http://paraisotv.ddns.net/091/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-logo="http://i.imgur.com/0HQ20e3.png" group-title="Infantil",TV Rá Tim Bum
+http://paraisotv.ddns.net/023/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Tooncast.br" tvg-logo="http://i.imgur.com/ggVGWjw.png" group-title="Infantil",Tooncast
+http://paraisotv.ddns.net/085/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="BabyTV.br" tvg-logo="http://i.imgur.com/N1yI2xN.png" group-title="Infantil",Baby TV
+http://paraisotv.ddns.net/066/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+
+
+#######################################################################################Vários Nat Geo continuacao
+
+
+#EXTINF:-1 tvg-id="Bis.br" tvg-logo="http://i.imgur.com/h2pmOca.png" group-title="Variedade e Músicas",Bis HD
+http://paraisotv.ddns.net/061/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Mtv.br" tvg-logo="http://i.imgur.com/U6Rgjqs.png" group-title="Variedade e Músicas",MTV HD
+http://paraisotv.ddns.net/072/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="VH1HD.br" tvg-logo="http://i.imgur.com/M5FodWF.png" group-title="Variedade e Músicas",VH1 HD
+http://paraisotv.ddns.net/012/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="VH1MegaHits.br" tvg-logo="http://i.imgur.com/UdgsfWl.png" group-title="Variedade e Músicas",VH1 Mega Hits HD
+http://paraisotv.ddns.net/040/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+
+
+################################################################################# Varios 630 Net
+
+#EXTINF:-1 audio-track="por,eng" tvg-id="Universalchannel.br" tvg-logo="http://i.imgur.com/rd1F3dK.png" group-title="Filmes e Séries",Universal Channel HD
+http://paraisotv.ddns.net/067/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 audio-track="por,eng" tvg-id="Fox.br" tvg-logo="http://i.imgur.com/Od0wkz3.png" group-title="Filmes e Séries",Fox HD
+http://paraisotv.ddns.net/064/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 audio-track="por,eng" tvg-id="Warnerchannel.br" tvg-logo="http://i.imgur.com/HBaycf4.png" group-title="Filmes e Séries",Warner HD
+http://paraisotv.ddns.net/080/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 audio-track="por,eng" tvg-id="Sony.br" tvg-logo="http://i.imgur.com/eHN8OeK.png" group-title="Filmes e Séries",Sony HD
+http://paraisotv.ddns.net/003/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 audio-track="por,eng" tvg-id="Fx.br" tvg-logo="http://i.imgur.com/GaQZSu6.png" group-title="Filmes e Séries",FX HD
+http://paraisotv.ddns.net/046/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 audio-track="por,eng" tvg-id="Axn.br" tvg-logo="http://i.imgur.com/kNNpfSN.png" group-title="Filmes e Séries",AXN HD
+http://paraisotv.ddns.net/078/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 audio-track="por,eng" tvg-id="Tbs.br" tvg-logo="http://i.imgur.com/XHUoj3n.png" group-title="Filmes e Séries",TBS
+http://paraisotv.ddns.net/038/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 audio-track="por,eng" tvg-id="Comedycentral.br" tvg-logo="http://i.imgur.com/ZekUX7A.png" group-title="Filmes e Séries",Comedy Central
+http://paraisotv.ddns.net/030/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 audio-track="por,eng" tvg-id="Ae.br" tvg-logo="http://i.imgur.com/jT9k8mt.png" group-title="Documentários",A&E HD
+http://paraisotv.ddns.net/031/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 audio-track="por,eng" tvg-id="Investigacaodiscoveryid.br" tvg-logo="http://i.imgur.com/1nFjk1t.png" group-title="Documentários",ID HD
+http://paraisotv.ddns.net/056/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 audio-track="por,eng" tvg-id="Syfy.br" tvg-logo="http://i.imgur.com/nRBPSZp.png" group-title="Filmes e Séries",Syfy
+http://paraisotv.ddns.net/093/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 audio-track="por,eng" tvg-id="Lifetime.br" tvg-logo="http://i.imgur.com/Bt7sDyU.png" group-title="Documentários",Lifetime HD
+http://paraisotv.ddns.net/005/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 audio-track="por,eng" tvg-id="Trutv.br" tvg-logo="http://i.imgur.com/weW9Upy.png" group-title="Documentários",TruTV
+http://paraisotv.ddns.net/103/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 audio-track="por,eng" tvg-id="TNTSerie.br" tvg-logo="http://i.imgur.com/ky7Nxh1.png" group-title="Filmes e Séries",TNT Séries HD
+http://paraisotv.ddns.net/025/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 audio-track="por,eng" tvg-id="Tnt.br" tvg-logo="http://i.imgur.com/wtLZgX5.png" group-title="Filmes e Séries",TNT HD
+http://paraisotv.ddns.net/009/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 audio-track="por,eng" tvg-id="Megapix.br" tvg-logo="http://i.imgur.com/LewQb1v.png" group-title="Filmes e Séries",Megapix HD
+http://paraisotv.ddns.net/033/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 audio-track="por,eng" tvg-id="Space.br" tvg-logo="http://i.imgur.com/wP2GD1G.png" group-title="Filmes e Séries",Space HD
+http://paraisotv.ddns.net/029/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 audio-track="por,eng" tvg-id="Cinemax.br" tvg-logo="http://i.imgur.com/nlGx2t1.png" group-title="Filmes e Séries",Cinemax HD
+http://paraisotv.ddns.net/035/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 audio-track="por,eng" tvg-id="Tcm.br" tvg-logo="http://i.imgur.com/HgmpKDu.png" group-title="Filmes e Séries",TCM
+http://paraisotv.ddns.net/039/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 audio-track="por,eng" tvg-id="Studiouniversal.br" tvg-logo="http://i.imgur.com/WnUlcx6.png" group-title="Filmes e Séries",Studio Universal
+http://paraisotv.ddns.net/096/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 audio-track="por,eng" tvg-id="Paramounthd.br" tvg-logo="http://i.imgur.com/yScrn6s.png" group-title="Filmes e Séries",Paramount HD
+http://paraisotv.ddns.net/004/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+
+
+
+
+################################################################################# Filmes e Series
+
+
+
+#EXTINF:-1 audio-track="por,eng" tvg-id="Tcpremium.br" tvg-logo="http://i.imgur.com/aMWCWA0.png" group-title="Filmes e Séries",Telecine Premium HD
+http://paraisotv.ddns.net/069/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 audio-track="por,eng" tvg-id="Tcaction.br" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="Filmes e Séries",Telecine Action HD
+http://paraisotv.ddns.net/068/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 audio-track="por,eng" tvg-id="Tctouch.br" tvg-logo="http://i.imgur.com/849pB2j.png" group-title="Filmes e Séries",Telecine Touch HD
+http://paraisotv.ddns.net/102/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 audio-track="por,eng" tvg-id="Tcfun.br" tvg-logo="http://i.imgur.com/ltpUjbD.png" group-title="Filmes e Séries",Telecine Fun HD
+http://paraisotv.ddns.net/060/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 audio-track="por,eng" tvg-id="Tcpipoca.br" tvg-logo="http://i.imgur.com/lfOS7gF.png" group-title="Filmes e Séries",Telecine Pipoca HD
+http://paraisotv.ddns.net/065/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 audio-track="por,eng" tvg-id="Tccult.br" tvg-logo="http://i.imgur.com/CHaWCed.png" group-title="Filmes e Séries",Telecine Cult HD
+http://paraisotv.ddns.net/055/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 audio-track="por,eng" tvg-id="Hbo.br" tvg-logo="http://i.imgur.com/KOIo5EH.png" group-title="Filmes e Séries",HBO HD
+http://paraisotv.ddns.net/053/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 audio-track="por,eng" tvg-id="Hbo2.br" tvg-logo="http://i.imgur.com/okiePBA.png" group-title="Filmes e Séries",HBO 2 HD
+http://paraisotv.ddns.net/047/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 audio-track="por,eng" tvg-id="Hboplus.br" tvg-logo="http://i.imgur.com/rjzeynR.png" group-title="Filmes e Séries",HBO Plus HD
+http://paraisotv.ddns.net/037/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 audio-track="por,eng" tvg-id="Hbofamily.br" tvg-logo="http://i.imgur.com/x2Enlmt.png" group-title="Filmes e Séries",HBO Family HD
+http://paraisotv.ddns.net/088/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 audio-track="por,eng" tvg-id="Hbosignature.br" tvg-logo="http://i.imgur.com/i89AzSA.png" group-title="Filmes e Séries",HBO Signature HD
+http://paraisotv.ddns.net/071/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 audio-track="por,eng" tvg-id="Maxuphd.br" tvg-logo="http://i.imgur.com/3Ci9AWu.png" group-title="Filmes e Séries",MAX UP HD
+http://paraisotv.ddns.net/045/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 audio-track="por,eng" tvg-id="Max.br" tvg-logo="http://i.imgur.com/49eEDXa.png" group-title="Filmes e Séries",MAX HD
+http://paraisotv.ddns.net/051/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 audio-track="por,eng" tvg-id="Foxpremium1.br" tvg-logo="http://i.imgur.com/m1ixuy7.png" group-title="Filmes e Séries",Fox Premium 1 HD
+http://paraisotv.ddns.net/018/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 audio-track="por,eng" tvg-id="Foxpremium2.br" tvg-logo="http://i.imgur.com/RjR5EH8.png" group-title="Filmes e Séries",Fox Premium 2 HD
+http://paraisotv.ddns.net/019/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+
+
+
+################################################################################ Premiere
+
+
+
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="Esportes",Premiere Clubes HD
+http://paraisotv.ddns.net/097/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="Esportes",Premiere HD 2
+http://paraisotv.ddns.net/041/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="Esportes",Premiere HD 3
+http://paraisotv.ddns.net/042/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="Esportes",Premiere HD 4
+http://paraisotv.ddns.net/043/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="Esportes",Premiere HD 5
+http://paraisotv.ddns.net/044/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="Esportes",Premiere HD 6
+http://paraisotv.ddns.net/099/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="Esportes",Premiere HD 7
+http://paraisotv.ddns.net/100/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Premiere8.br" tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="Esportes",Premiere HD 8
+http://paraisotv.ddns.net/110/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+####################################################################################################
+
+
+#EXTINF:-1 audio-track="por,eng" tvg-id="Combatehd.br" tvg-logo="http://i.imgur.com/dOFWcWV.png" group-title="Esportes",Combate HD
+http://paraisotv.ddns.net/016/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
