@@ -8,7 +8,11 @@
 
 #EXTINF:-1 tvg-id="Globosp.br" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="TV Aberta",Globo HD
 http://painel.iptvmove.com:25461/live/sggssgsg/ggfgfg/2648.m3u8
+
+#EXTINF:-1 tvg-id="Globosp.br" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="TV Aberta",Globo HD
 http://paraisotv.ddns.net/020/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Globosp.br" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="TV Aberta",Globo HD
 http://paraisotv.ddns.net/021/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta",Record HD
@@ -16,6 +20,8 @@ http://srv3.zoeweb.tv:1935/zw315/zw315tvs/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1 tvg-id="Sbt.br" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV Aberta",SBT HD
 http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Sbt.br" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV Aberta",SBT HD
 http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/chunklist_w1049268288_b796000.m3u8
 
 #EXTINF:-1 tvg-id="Redetv.br" tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="TV Aberta",Rede TV HD
@@ -97,8 +103,14 @@ http://paraisotv.ddns.net/c002/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1 audio-track="por,eng" tvg-id="ESPN+.br" tvg-logo="http://i.imgur.com/Qp5B2ZB.png" group-title="Esportes",ESPN+ HD
 http://paraisotv.ddns.net/c003/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="EsporteInterativo.br" tvg-logo="http://i.imgur.com/ifuWdBK.png" group-title="Esportes",Esporte Interativo HD
+#EXTINF:-1 tvg-id="EsporteInterativo.br" tvg-logo="http://i.imgur.com/ifuWdBK.png" group-title="Esportes",Esporte Interativo BR HD
 http://paraisotv.ddns.net/c004/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Eimaxx.br" tvg-logo="http://i.imgur.com/ifuWdBK.png" group-title="Esportes",Esporte Interativo Max HD
+http://paraisotv.ddns.net/048/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Eimaxx2.br" tvg-logo="http://i.imgur.com/ifuWdBK.png" group-title="Esportes",Esporte Interativo Max 2 HD
+http://paraisotv.ddns.net/c005/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1 tvg-id="Foxsports.br" tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="Esportes",Fox Sports HD
 http://paraisotv.ddns.net/036/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
@@ -108,17 +120,6 @@ http://paraisotv.ddns.net/c009/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1 tvg-id="Bandsportshd.br" tvg-logo="http://i.imgur.com/wuMZB2S.png" group-title="Esportes",Band Sports HD
 http://paraisotv.ddns.net/c015/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="Eimaxx.br" tvg-logo="http://i.imgur.com/ifuWdBK.png" group-title="Esportes",EI Maxx HD
-http://paraisotv.ddns.net/048/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="Eimaxx2.br" tvg-logo="http://i.imgur.com/ifuWdBK.png" group-title="Esportes",EI Maxx 2 HD
-http://paraisotv.ddns.net/c005/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
-
-#EXTINF:-1 tvg-id="Recordnews.br" tvg-logo="http://i.imgur.com/ac5p192.png" group-title="Notícias",Record News
-http://sm.fabricahost.com.br:1935/tvguara/tvguara/playlist.m3u8?PEDROJUNIORTUTORIAIS
-http://stmv4.srvstm.com/recordnewses/recordnewses/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1 tvg-id="Recordnews.br" tvg-logo="http://i.imgur.com/ac5p192.png" group-title="Notícias",Record News HD
 http://paraisotv.ddns.net/049/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
@@ -216,7 +217,7 @@ http://paraisotv.ddns.net/066/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
 #######################################################################################Vários Nat Geo continuacao
 
 
-#EXTINF:-1 tvg-id="Bis.br" tvg-logo="http://i.imgur.com/h2pmOca.png" group-title="Variedade e Músicas",Bis HD
+#EXTINF:-1 tvg-id="Bis.br" tvg-logo="http://i.imgur.com/h2pmOca.png" group-title="Variedade e Músicas",BIS HD
 http://paraisotv.ddns.net/061/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1 tvg-id="Mtv.br" tvg-logo="http://i.imgur.com/U6Rgjqs.png" group-title="Variedade e Músicas",MTV HD
@@ -225,7 +226,7 @@ http://paraisotv.ddns.net/072/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1 tvg-id="VH1HD.br" tvg-logo="http://i.imgur.com/M5FodWF.png" group-title="Variedade e Músicas",VH1 HD
 http://paraisotv.ddns.net/012/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="VH1MegaHits.br" tvg-logo="http://i.imgur.com/UdgsfWl.png" group-title="Variedade e Músicas",VH1 Mega Hits HD
+#EXTINF:-1 tvg-id="VH1MegaHits.br" tvg-logo="http://i.imgur.com/UdgsfWl.png" group-title="Variedade e Músicas",VH1 Megahits HD
 http://paraisotv.ddns.net/040/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
 
