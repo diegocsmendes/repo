@@ -34,10 +34,10 @@ http://rsync.com.br:1935/rsync00026/rsync.sdp/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
 
 #EXTINF:-1 audio-track="por,eng" tvg-id="Off.br" tvg-logo="http://i.imgur.com/WGoV3TD.png" group-title="Esportes",Off HD
-http://paraisotv.ddns.net/092/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+http://br1.e-tv.xyz:8081/live/like2js81bms1/RgZZ5E63Nm/3914.ts
 
 #EXTINF:-1 tvg-id="Sportv3.br" tvg-logo="http://i.imgur.com/8ds9Wv0.png" group-title="Esportes",SporTV 3 HD
-http://paraisotv.ddns.net/c016/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+http://br1.e-tv.xyz:8081/live/like2js81bms1/RgZZ5E63Nm/3914.ts
 
 #EXTINF:-1 tvg-id="Sportv2.br" tvg-logo="http://i.imgur.com/qpwwQCz.png" group-title="Esportes",SporTV 2 HD
 http://paraisotv.ddns.net/c007/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
